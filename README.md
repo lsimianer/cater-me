@@ -3,7 +3,7 @@
 
 <img id="logo"  style="margin-left: 30%;" src="public/images/logocircle.png" height="400">
 <br>
-
+<h3> View the App [Here](https://enigmatic-reaches-66520.herokuapp.com/create)
 <h2 style="text-align: center;">The Problem</h2>
 
 Cater2Me is an app that can span the entirety of the online consumer environment. Our target vertical for launch will be the catering industry. Catering is a niche industry that most consumers don't have experience with until they need it. This creates a market that is hard to approach and often leads to the consumer taking the first offer shot their way. Vendors, whether big or small face the issue of filling as many time slots as possible, doing so consistently, and showcasing what they offer compared to their competitors. However, my madeup research shows that consumers typically only get 1 or 2 quotes before moving forward, so the small companies often never get a chance to grow and succeed.  
